@@ -1,0 +1,10 @@
+# Aione.my - Robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://aione.my/sitemap.xml
+
+# Disallow admin areas (если будут)
+# Disallow: /admin/
